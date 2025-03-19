@@ -1,9 +1,9 @@
-#Stock Market Prediction
+# Stock Market Prediction
 
 This project predicts stock prices using LSTM (Long Short-Term Memory) and Linear Regression models. The application fetches historical stock market data, processes it, trains models, and visualizes predictions through a Flask-based web interface.
 
 
-📌 Features:
+# 📌 Features:
 
 
 📊 Fetches historical stock data from Yahoo Finance using yfinance
@@ -17,7 +17,7 @@ This project predicts stock prices using LSTM (Long Short-Term Memory) and Linea
 🌐 Deploys the model using Flask for real-time predictions
 
 
-📥 Dataset (Fetching Stock Data)
+# 📥 Dataset (Fetching Stock Data)
 
 
 We fetch historical stock data using yfinance. For this project, we are using NVIDIA (NVDA) stock data from:
@@ -30,7 +30,7 @@ End Date: 2024-05-31
 Stock Symbol: NVDA
 
 
-🚀 Technologies Used:
+# 🚀 Technologies Used:
 
 
 Python
